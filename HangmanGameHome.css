@@ -51,7 +51,6 @@ nav ul li{
 #container #top-of-container #alphabet #letter-container{
 	display:flex;
 	flex-wrap:wrap;
-
 }
 #container #top-of-container #alphabet button{
 	width:15%;
@@ -64,7 +63,6 @@ nav ul li{
 	border: solid;
 	border-color: rgb(140,140,0);
 	margin: 3%;
-
 }
 #container #word-container #secret-letters{
 	display: flex;
@@ -86,7 +84,7 @@ nav ul li{
 	display: flex;
 	justify-content: center;
 }
-#container #card-container #cards button{
+#container #card-container #cards .card-button{
 	display: flex;
 	justify-content: center;
 	padding: 3%;
